@@ -1,7 +1,7 @@
 ---
 ID: 2131
 post_title: page with super form shortcode
-author: whoare
+author: gg dd
 post_date: 2017-06-18 13:35:26
 post_excerpt: ""
 layout: page
@@ -17,4 +17,4 @@ title:
 breadcrumbs:
   - show
 ---
-[super_form id="2129"]
+[super_form id="2149"]
